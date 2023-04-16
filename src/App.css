@@ -78,6 +78,7 @@ body {
   height: 100%;
   font-size: 18px;
   border-right: none;
+  border-radius: 10px;
   background-color: black;
 }
 
@@ -86,8 +87,7 @@ body {
   height: 100%;
   border: none;
   background-color: lightseagreen;
-  border-top-right-radius: 8px;
-  border-bottom-right-radius: 8px;
+  border-radius: 10px;
   color: white;
   cursor: pointer;
 }
